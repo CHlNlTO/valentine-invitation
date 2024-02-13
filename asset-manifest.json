@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/valentine-invitation/static/css/main.ee4bc4cf.css",
+    "main.js": "/valentine-invitation/static/js/main.a4f82cc5.js",
+    "index.html": "/valentine-invitation/index.html",
+    "main.ee4bc4cf.css.map": "/valentine-invitation/static/css/main.ee4bc4cf.css.map",
+    "main.a4f82cc5.js.map": "/valentine-invitation/static/js/main.a4f82cc5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ee4bc4cf.css",
+    "static/js/main.a4f82cc5.js"
+  ]
+}
